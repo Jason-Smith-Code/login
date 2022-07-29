@@ -1,0 +1,2 @@
+required packages : 
+npm i express mongoose dotenv nodemon cors jsonwebtoken joi joi-password-complexity bcrypt
